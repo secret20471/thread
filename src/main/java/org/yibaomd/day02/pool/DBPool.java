@@ -2,7 +2,6 @@ package org.yibaomd.day02.pool;
 
 import java.sql.Connection;
 import java.util.LinkedList;
-import java.util.List;
 
 /**
  * 实现一个数据库的连接池

@@ -3,7 +3,6 @@ package org.yibaomd.day02.pool;
 
 import org.yibaomd.tools.SleepTools;
 
-import java.sql.*;
 import java.util.Map;
 import java.util.Properties;
 import java.util.concurrent.Executor;
